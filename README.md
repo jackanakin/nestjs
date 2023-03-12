@@ -1,8 +1,6 @@
 # NestJS
 > https://www.udemy.com/course/nestjs-zero-to-hero
 
-[TaskManagementApplication](https://github.com/jackanakin/nestjs/tree/main/TaskManagementApplication/api)</br>
-
 ## 1. Modules
 `The @Module decorator provides metadata that Nest uses to organize the application structure.`
 `nest g module MODULE_NAME`
